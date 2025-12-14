@@ -1,0 +1,29 @@
+Inspiracje (słowa, skojarzenia, pomysły)
+
+    Słowa: Skupienie, Flow, Systematyczność, Spokój, Progres, Minimalizm.
+
+    Skojarzenia: Planner papierowy, Trello, Google Calendar, Pomodoro.
+
+    Pomysły: Tryb ciemny, Funkcja podziału dużego zadania na mniejsze kroki, Widget na pulpit, Przypomnienia kontekstowe.
+
+Wstępne dane wejściowe
+
+    Lista kategorii (Przedmioty/Bloki): Analiza, Algebra, Programowanie, Język obcy, Projekty zespołowe, Inne.
+
+    Lista funkcji (MVP):
+
+        Dodawanie zadań z datą/terminem.
+
+        Oznaczanie zadań jako wykonane.
+
+        Widok tygodniowy.
+
+        Wykres słupkowy: zadania wykonane vs. niewykonane w tygodniu.
+
+Lista źródeł pomysłu
+
+    Własna potrzeba podczas sesji egzaminacyjnej.
+
+    Rozmowy ze znajomymi na temat frustracji związanej z natłokiem prac.
+
+    Analiza popularnych aplikacji To-Do/Planner.
